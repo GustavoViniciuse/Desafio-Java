@@ -38,4 +38,6 @@ Este projeto foi desenvolvido como parte de um desafio técnico, com o objetivo 
 - `src/`: Contém os códigos fonte em Java para cada um dos problemas propostos.
 - `Q03.xml`: Arquivo XML contendo os valores de faturamento diário utilizados no terceiro problema.
 
-
+ ## Conclusão
+ 
+- Este projeto proporcionou uma excelente oportunidade para praticar e demonstrar habilidades em programação Java, manipulação de arquivos XML e resolução de problemas técnicos complexos. Fique à vontade para explorar o código e deixar feedbacks ou sugestões.
