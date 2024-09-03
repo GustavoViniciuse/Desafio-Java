@@ -36,11 +36,6 @@ Este projeto foi desenvolvido como parte de um desafio técnico, com o objetivo 
 ## Estrutura do Projeto
 
 - `src/`: Contém os códigos fonte em Java para cada um dos problemas propostos.
-- `faturamento.xml`: Arquivo XML contendo os valores de faturamento diário utilizados no terceiro problema.
+- `Q03.xml`: Arquivo XML contendo os valores de faturamento diário utilizados no terceiro problema.
 
-## Como Executar
 
-1. **Clone o repositório:**
-   ```bash
-   git clone https://github.com/seu-usuario/desafio-tecnico.git
-   cd desafio-tecnico
