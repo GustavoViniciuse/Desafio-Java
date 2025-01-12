@@ -33,11 +33,6 @@ Este projeto foi desenvolvido como parte de um desafio técnico, com o objetivo 
 - **XML**: Formato de arquivo utilizado para armazenar os dados de faturamento diário.
 - **DOM (Document Object Model)**: API utilizada para leitura e manipulação do arquivo XML.
 
-## Estrutura do Projeto
-
-- `src/`: Contém os códigos fonte em Java para cada um dos problemas propostos.
-- `Q03.xml`: Arquivo XML contendo os valores de faturamento diário utilizados no terceiro problema.
-
  ## Conclusão
  
 - Este projeto proporcionou uma excelente oportunidade para praticar e demonstrar habilidades em programação Java, manipulação de arquivos XML e resolução de problemas técnicos complexos. Fique à vontade para explorar o código e deixar feedbacks ou sugestões.
